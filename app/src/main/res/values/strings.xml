@@ -11,7 +11,7 @@
     <string name="fem">Femenino</string>
     <string name="mas">Masculino</string>
 
-    <string name="app_name">nivel</string>
+
     <string-array name="nivel">
         <item>C</item>
         <item>C++</item>
