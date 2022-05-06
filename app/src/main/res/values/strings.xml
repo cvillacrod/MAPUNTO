@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MAPUNTO</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="dni">DNI:</string>
+    <string name="direccion">Direccion:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="nivel">Nivel:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="repetircontraseña">Repetir Contraseña:</string>
+    <string name="fem">Femenino</string>
+    <string name="mas">Masculino</string>
+
+    <string name="app_name">nivel</string>
+    <string-array name="nivel">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>VisualBasic</item>
+    </string-array>
+</resources>
